@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - stone
+  - mushroom
+  - water
+  - Ground
+  - Floor
+  - Enemy
+  - Carrot
+  - Trigger
+  - Wall
+  - Meta
+  - Snowball
+  - Defeat
+  - DeadZone
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Enemy
+  - Platfrom
+  - D_objets
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 743020601
+    locked: 0
+  - name: logo
+    uniqueID: 1934835899
+    locked: 0
+  - name: face
+    uniqueID: 2180418703
+    locked: 0
